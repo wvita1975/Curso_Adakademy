@@ -1,0 +1,14 @@
+body{background-color: rgb(230, 236, 233);}
+
+*{font-size: 30px;}
+/* el selector asterisco "*" se utiliza para que el tamaño de la fuente de todo el documento sea el mismo.
+se debe colocar al principio del código */
+
+h1{color: rgb(71, 38, 150);}
+
+h2{ color:blue}
+
+#parrafo-id{color:rgb(7, 28, 95)}
+/* es un selector de "ID" se utiliza para asignar un identificador unico */
+
+.parrafo-class{color: darkblue;}
